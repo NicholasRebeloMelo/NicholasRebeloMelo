@@ -5,6 +5,16 @@ I'm a graduate from Humber College's Game Programming Advanced Diploma with a pa
 
 This GitHub profile showcases my projects that bridge the gap between these two worlds, or delve into one or the other. Take a look around and feel free to reach out!
 
+## Some Projects
+
+| Projects                                      |                            |
+|-----------------------------------------------|----------------------------|
+| SFML 2D Animation Engine                      | <a href= "https://github.com/NicholasRebeloMelo/SFMLCharacter-Map"> SFMLCharacter-Map </a> |
+| Three.js website using Vite                   | <a href= "https://github.com/NicholasRebeloMelo/NickWebsite"> NickWebsite </a>|
+
+![image](https://github.com/NicholasRebeloMelo/NicholasRebeloMelo/assets/44447684/c6d53eed-896c-4c3b-bc24-8fb44e36bdde)
+
+
 
 <!--
 **NicholasRebeloMelo/NicholasRebeloMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
