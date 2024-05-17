@@ -10,6 +10,7 @@ This GitHub profile showcases my projects that bridge the gap between these two 
 | Projects                                      |                            |
 |-----------------------------------------------|----------------------------|
 | SFML 2D Animation Engine                      | <a href= "https://github.com/NicholasRebeloMelo/SFMLCharacter-Map"> SFMLCharacter-Map </a> |
+| Assests and Code From Unity2D Game            | <a href= "https://github.com/NicholasRebeloMelo/SolarSoar"> Solar Soar  </a>|
 | Three.js website using Vite                   | <a href= "https://github.com/NicholasRebeloMelo/NickWebsite"> NickWebsite </a>|
 
 
