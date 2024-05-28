@@ -1,7 +1,7 @@
 # Hello, I'm Nick
 <a href="https://www.linkedin.com/in/nicholas-melo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a graduate from Humber College's Game Programming Advanced Diploma with a passion for both game development and cybersecurity. While I've been honing my skills in game design, I recently (October 2023) completed Google's Cybersecurity Certificate on Coursera to expand my skillset.
+I'm a graduate from Humber College's Game Programming Advanced Diploma with a passion for both game development and cybersecurity. While I've been honing my skills in game design, I also completed Google's Cybersecurity Certificate on Coursera to expand my skillset.
 
 This GitHub profile showcases my projects that bridge the gap between these two worlds, or delve into one or the other. Take a look around and feel free to reach out!
 
